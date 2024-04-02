@@ -1,16 +1,14 @@
 Hi 👋 My name is Shivang Jhalani
 ================================
-
+**Current status (March 16, 2024)** : Frontend doesnt interest me anymore (Ill give HTMX a try before completely giving up), am learning core CS concepts and backend now, started with web dev and going and closer to hardware now, moving backwards :)
 *   🧠  I'm currently learning C
 *   😎  I use neovim BTW
 *   🤓  I use NixOS also BTW
 
 ### About me
-
 Hi there! I'm Shivang Jhalani, a first-year Computer Science student at PES University, Bangalore.
 
 ### Skills
-
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
