@@ -1,4 +1,4 @@
-Hi 👋 My name is Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&random=false&width=800&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me..." alt="Typing SVG" /></a>
+Hi 👋 My name is Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=400&color=FFFFFF&random=false&width=800&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux." alt="Typing SVG" /></a>
 ================================
 
 <p align="center">
@@ -7,7 +7,7 @@ Hi 👋 My name is Shivang Jhalani <a href="https://git.io/typing-svg"><img src=
 ### About me
 Hi there! I'm Shivang Jhalani, a first-year Computer Science student at PES University, Bangalore.
 
-I'm on a quest to peel through the layers of abstractions and build my computer knowledge from the ground up and have a very strong foundation, much like the tech boomers 🤓, I am very curious to know why they built the way they built it.
+I'm on a quest to peel through the layers of abstractions and build my computer knowledge from the ground up and have a very strong foundation, much like the tech boomers 🤓, I am very curious to know why they built the way they built it. I want to build very nice things in a very nice way, very vague ik, am still figuring out stuff as well. 
 
 I started off with web development but It took me too long to realise that frontend doesn't really interest me that much, I am not fond of working behind soo many layers of abstractions without knowing whats behind (or maybe its just a skill issue).
 What now interests me much more are backend stuff and learning core CS concepts.
