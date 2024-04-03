@@ -8,6 +8,9 @@ Hi 👋 My name is Shivang Jhalani
 ### About me
 Hi there! I'm Shivang Jhalani, a first-year Computer Science student at PES University, Bangalore.
 
+Gonna reinvent the wheel
+
+<img height="512" src="https://github.com/shivangjhalani/shivangjhalani/assets/137867387/830d0df4-8585-4dae-996d-3c8d727e22cd"></img>
 ### Skills
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
