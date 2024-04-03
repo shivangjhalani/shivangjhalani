@@ -1,4 +1,4 @@
-Hi 👋 My name is Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&random=false&width=800&lines=I+love+learning.;I+love+Jonathan+Blow;I+watch+minecraft+dont+bully+me..." alt="Typing SVG" /></a>
+Hi 👋 My name is Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&random=false&width=800&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me..." alt="Typing SVG" /></a>
 ================================
 
 <p align="center">
