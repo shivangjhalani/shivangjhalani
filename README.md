@@ -34,8 +34,12 @@ I'm on a quest to build my computer knowledge from the ground up and have a very
 
 
 ### My GitHub Stats
-
-[![Shivang's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivangjhalani&custom_title=Shivang's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://shivangjhalani.com/)
+<p align="left">
+  <a href="https://www.shivangjhalani.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shivangjhalani&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangjhalani&theme=radical&hide_border=true">		  
+  </a>
+</p>
 
 ---
 
