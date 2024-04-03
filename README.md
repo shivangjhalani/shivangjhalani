@@ -33,7 +33,7 @@ What now interests me much more are backend stuff, cloud computing and learning 
 
 ### My GitHub Stats
 <p align="left">
-  <a href="https://www.shivangjhalani.com/">
+  <a href="https://www.shivang.dev/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shivangjhalani&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangjhalani&theme=radical&hide_border=true">		  
   </a>
