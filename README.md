@@ -10,7 +10,7 @@ Hi there! I'm Shivang Jhalani, a first-year Computer Science student at PES Univ
 I'm on a quest to peel through the layers of abstractions and build my computer knowledge from the ground up and have a very strong foundation, much like the tech boomers 🤓, I am very curious to know why they built the way they built it. I want to build things that matter.
 
 I started off with web development but It took me too long to realise that frontend doesn't really interest me that much, I am not fond of working behind soo many layers of abstractions without knowing whats behind (or maybe its just a skill issue).
-What now interests me much more are backend stuff and learning core CS concepts.
+What now interests me much more are backend stuff, cloud computing and learning core CS concepts.
 
 *   🧠  I am currently learning C
 *   😎  I use neovim BTW
