@@ -8,7 +8,8 @@ Hi 👋 My name is Shivang Jhalani
 ### About me
 Hi there! I'm Shivang Jhalani, a first-year Computer Science student at PES University, Bangalore.
 
-Gonna reinvent the wheel
+---
+#### _Gonna reinvent the wheel_
 
 <img height="512" src="https://github.com/shivangjhalani/shivangjhalani/assets/137867387/830d0df4-8585-4dae-996d-3c8d727e22cd"></img>
 ### Skills
@@ -24,3 +25,6 @@ Gonna reinvent the wheel
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
+
+
+### My GitHub Stats
