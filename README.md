@@ -13,7 +13,7 @@ What now interests me much more are backend stuff, cloud computing and **learnin
 
 *   🧠  I am currently learning C
 *   😎  I use neovim BTW
-*   🤓  I use NixOS also BTW
+*   🤓  I daily-drive NixOS also BTW
 
 ### Skills
 <p align="left">
