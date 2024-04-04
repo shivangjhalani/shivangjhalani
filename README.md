@@ -2,7 +2,7 @@ Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https:/
 ================================
 
 ### About me
-Hi there! I'm Shivang Jhalani, a student, wannabe programmer,. I like philosophy, video games, lie-ins, and learning. I buy more books than I read, I'm scared of insects, and I love "poha".
+Hi there! I'm Shivang Jhalani, a student, wannabe programmer. I like philosophy, video games, lie-ins, and learning. I buy more books than I read, I'm scared of insects, and I love "poha".
 
 Its really nice to meet you.
 
