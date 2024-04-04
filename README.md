@@ -1,16 +1,15 @@
-Hi 👋 My name is Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=400&color=FFFFFF&random=false&width=800&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux." alt="Typing SVG" /></a>
+Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=400&color=FFFFFF&random=false&width=1000&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux.;I+want+to+start+reading+regularly.;I+am+scared+of+insects.;I+am+over+my+anime+phase." alt="Typing SVG" /></a>
 ================================
 
-<p align="center">
-</p>
-
 ### About me
-Hi there! I'm Shivang Jhalani, a first-year Computer Science student at PES University, Bangalore.
+Hi there! I'm Shivang Jhalani, a student, wannabe programmer,. I like philosophy, video games, lie-ins, and learning. I buy more books than I read, I'm scared of insects, and I love "poha".
 
-I'm on a quest to peel through the layers of abstractions and build my computer knowledge from the ground up and have a very strong foundation, much like the tech boomers 🤓, I am very curious to know why they built the way they built it. I want to build things that matter.
+Its really nice to meet you.
+
+I'm on a quest to peel through the layers of abstractions and build my computer knowledge from the ground up and have a very strong foundation, much like the tech boomers, I am very curious to know why they built the way they built it. I want to build things the meaningful way as well.
 
 I started off with web development but It took me too long to realise that frontend doesn't really interest me that much, I am not fond of working behind soo many layers of abstractions without knowing whats behind (or maybe its just a skill issue).
-What now interests me much more are backend stuff, cloud computing and learning core CS concepts.
+What now interests me much more are backend stuff, cloud computing and **learning core CS concepts**.
 
 *   🧠  I am currently learning C
 *   😎  I use neovim BTW
@@ -30,18 +29,9 @@ What now interests me much more are backend stuff, cloud computing and learning 
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-
-### My GitHub Stats
-<p align="left">
-  <a href="https://www.shivang.dev/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shivangjhalani&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangjhalani&theme=radical&hide_border=true">		  
-  </a>
-</p>
-
 ---
 
-<p align="center"><b>Gonna reinvent the wheel</b></p>
+<p align="center"><b>Gonna reinvent the wheel!</b></p>
 <p align="center"><img height="512" src="https://github.com/shivangjhalani/shivangjhalani/assets/137867387/830d0df4-8585-4dae-996d-3c8d727e22cd"></img></p>
 
 ---
