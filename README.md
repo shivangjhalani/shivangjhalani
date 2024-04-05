@@ -1,4 +1,4 @@
-Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=200&color=FFFFFF&random=false&width=1000&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux.;I+want+to+start+reading+regularly.;I+am+scared+of+insects.;I+am+over+my+anime+phase.;I+love+open+source.;I+read+gita." alt="Typing SVG" /></a>
+Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=200&color=FFFFFF&random=false&width=1000&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux.;I+am+scared+of+insects.;I+am+over+my+anime+phase.;I+love+open+source.;I+read+gita." alt="Typing SVG" /></a>
 ================================
 
 ### About me
