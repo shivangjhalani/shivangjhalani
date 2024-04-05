@@ -1,6 +1,10 @@
 Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=200&color=FFFFFF&random=false&width=1000&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux.;I+am+scared+of+insects.;I+am+over+my+anime+phase.;I+love+open+source.;I+read+gita." alt="Typing SVG" /></a>
 ================================
 
+#### Currently learning
+- HTMX + Go
+- C
+
 ### About me
 Hi there! I'm Shivang Jhalani, a student, wannabe programmer. I like philosophy, linux, video games, lie-ins, learning. I buy more books than I read, I'm scared of insects, and I love "poha".
 
