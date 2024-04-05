@@ -35,9 +35,3 @@ What now interests me much more are backend stuff, cloud computing and **learnin
 <p align="center"><img height="512" src="https://github.com/shivangjhalani/shivangjhalani/assets/137867387/830d0df4-8585-4dae-996d-3c8d727e22cd"></img></p>
 
 ---
-
-### To Do's
-- [ ] Complete reading "The C Programming language"
-- [ ] Buy Boot.dev :)
-- [ ] Start "Crafting Interpreters"
-- [ ] Study for college... FML
