@@ -12,8 +12,8 @@ Its really nice to meet you.
 
 I'm on a quest to peel through the layers of abstractions and build my computer knowledge from the ground up and have a very strong foundation, much like the tech boomers, I am very curious to know why they built the way they built it. I want to understand computer science well enough to do challenging, innovative work, rather than be familiar with a few high level tools. Just a thought but I also want to learn electronics that support my CS knowledge!
 
-I started off with web development but It took me too long to realise that frontend doesn't really interest me that much, I am not fond of working behind soo many layers of abstractions without knowing whats behind (or maybe its just a skill issue).
-What now interests me much more are backend stuff, cloud computing and **learning core CS concepts**.
+I started off with web development but It took me too long to realise that frontend doesn't really interest me that much.
+What now interests me much more are backend stuff, cloud computing and learning core CS concepts.
 
 *   🧠  I am currently learning C
 *   😎  I use neovim BTW
