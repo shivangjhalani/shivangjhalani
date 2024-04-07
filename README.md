@@ -2,8 +2,8 @@ Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https:/
 ================================
 
 #### Currently learning
-- HTMX + Go
 - C
+- Go + HTMX
 
 ### About me
 Hi there! I'm Shivang Jhalani, a student, wannabe programmer. I like philosophy, linux, video games, lie-ins, learning. I buy more books than I read, I'm scared of insects, and I love "poha".
