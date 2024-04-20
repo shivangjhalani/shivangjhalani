@@ -1,21 +1,6 @@
 Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=200&color=FFFFFF&random=false&width=1000&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux.;I+am+scared+of+insects.;I+am+over+my+anime+phase.;I+love+open+source.;I+read+gita." alt="Typing SVG" /></a>
 ================================
 
-#### Currently learning
-- C
-- Go + HTMX
-
-### About me
-Hi there! I'm Shivang Jhalani, a student, wannabe programmer. I like philosophy, linux, video games, lie-ins, learning. I buy more books than I read, I'm scared of insects, and I love "poha".
-
-Its really nice to meet you.
-
-I'm on a quest to peel through the layers of abstractions and build my computer knowledge from the ground up and have a very strong foundation, much like the tech boomers, I am very curious to know why they built the way they built it. I want to understand computer science well enough to do challenging, innovative work, rather than be familiar with a few high level tools. Just a thought but I also want to learn electronics that support my CS knowledge!
-
-I started off with web development but It took me too long to realise that frontend doesn't really interest me that much.
-What now interests me much more are backend stuff, cloud computing and learning core CS concepts.
-
-*   🧠  I am currently learning C
 *   😎  I use neovim BTW
 *   🤓  I daily-drive NixOS also BTW
 
