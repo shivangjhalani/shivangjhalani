@@ -1,26 +1,29 @@
 Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=200&color=FFFFFF&random=false&width=1000&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux.;I+am+scared+of+insects.;I+am+over+my+anime+phase.;I+love+open+source.;I+read+gita." alt="Typing SVG" /></a>
 ================================
 
-*   😎  I use neovim BTW
-*   🤓  I daily-drive NixOS also BTW
+I'm doing bachelors in CS @ PES University, Bangalore.  
 
-### Skills
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+I love computers, my knowledge is driven by interests and curiosity. I love learning and I write about my journey at my website: https://shivangjhalani.com.
+I am proficient in C, python, full-stack web development and linux system administration. Am actively learning AI, my interests are low level systems programming, cloud computing and am a hardcore linux enthusiast (NixOS btw)
+
+My dopamine is building things that people love and I take pride in my user centric approach to problems...
+
+```
+- Studying CS
+- Linux enthusiast (NixOS btw)
+- Low level
+- Learning AI
+- Web Dev
+- Reinventing the wheel
+```
+<p align="center"><b>And did I mention I love learning? Gonna reinvent the wheel!</b></p>
+<p align="center">![reinvent](https://github.com/user-attachments/assets/463019db-39f1-41ed-8cfb-06e6fbc79c80)</img></p>
 
 ---
-
-<p align="center"><b>Gonna reinvent the wheel!</b></p>
-<p align="center"><img height="512" src="https://github.com/shivangjhalani/shivangjhalani/assets/137867387/830d0df4-8585-4dae-996d-3c8d727e22cd"></img></p>
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=shivangjhalani&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shivangjhalani&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangjhalani&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</p>
 
 ---
