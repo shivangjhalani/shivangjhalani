@@ -1,12 +1,10 @@
-Hi 👋 Me Shivang Jhalani <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=200&color=FFFFFF&random=false&width=1000&lines=I+love+learning.;I+love+Jonathan+Blow.;Am+still+exploring+interests+in+CS.;I+watch+minecraft+dont+bully+me...;I+love+Linux.;I+am+scared+of+insects.;I+am+over+my+anime+phase.;I+love+open+source.;I+read+gita." alt="Typing SVG" /></a>
-================================
+Hi 👋 I am Shivang Jhalani
+---
 
 I'm doing bachelors in CS @ PES University, Bangalore.  
 
-I love computers, my knowledge is driven by interests and curiosity. I love learning and I write about my journey at my website: https://shivangjhalani.com.
+I love computers, my knowledge is driven by interests and curiosity. I love learning and I write about my journey at my [website](https://shivangjhalani.com).  
 I am proficient in C, python, full-stack web development and linux system administration. Am actively learning AI, my interests are low level systems programming, cloud computing and am a hardcore linux enthusiast (NixOS btw)
-
-My dopamine is building things that people love and I take pride in my user centric approach to problems...
 
 ```
 - Studying CS
@@ -16,14 +14,18 @@ My dopamine is building things that people love and I take pride in my user cent
 - Web Dev
 - Reinventing the wheel
 ```
+
 <p align="center"><b>And did I mention I love learning? Gonna reinvent the wheel!</b></p>
-<p align="center">![reinvent](https://github.com/user-attachments/assets/463019db-39f1-41ed-8cfb-06e6fbc79c80)</img></p>
+<p align="center"><img height="512" src="https://github.com/shivangjhalani/shivangjhalani/assets/137867387/830d0df4-8585-4dae-996d-3c8d727e22cd"></img></p>
 
----
-<p align="center">
-![](https://github-readme-stats.vercel.app/api?username=shivangjhalani&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivangjhalani&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangjhalani&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</p>
 
----
+<div align="center">
+
+| **Activity Graph** | **Profile Summary** |
+|:-------------------:|:-------------------:|
+| <a href="https://github.com/shivangjhalani"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangjhalani&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"/></a> | <a href="https://github.com/shivangjhalani"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangjhalani&theme=nord_dark" alt="Profile Summary"/></a> |
+
+| **Stats** | **Streak** | **Languages** |
+|:---------:|:----------:|:-------------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=shivangjhalani&show_icons=true&locale=en&theme=nord&hide=stars&show=prs_merged_percentage" alt="GitHub Stats"/> | <img src="https://github-readme-streak-stats-w3ej.vercel.app/?user=shivangjhalani&theme=nord&border_radius=10&fire=DD2727" alt="Streak"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangjhalani&layout=compact&theme=nord" alt="Top Languages"/> |
+
