@@ -3,7 +3,7 @@ Hi 👋 I am Shivang Jhalani
 
 I'm doing bachelors in CS @ PES University, Bangalore.  
 
-I love computers, my knowledge is driven by interests and curiosity. I love learning and I write about my journey at my [website](https://shivangjhalani.com).  
+I love computers, my knowledge is driven by interests and curiosity. I love learning and I write about my journey over at my [website](https://shivangjhalani.com).  
 I am proficient in C, python, full-stack web development and linux system administration. Am actively learning AI, my interests are low level systems programming, cloud computing and am a hardcore linux enthusiast (NixOS btw)
 
 ```
