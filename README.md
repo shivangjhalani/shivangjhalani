@@ -1,7 +1,7 @@
 Hi 👋 I am Shivang
 ---
 
-I geek out on tech, and love building things that people would enjoy using. I enjoy architecting and planning solutions. I am learning continuously and I document parts of that journey on my personal website (shivangjhalani.com)[https://shivangjhalani.com]
+I geek out on tech, and love building things that people would enjoy using. I enjoy architecting and planning solutions. I am learning continuously and I document parts of that journey on my personal website [shivangjhalani.com](https://shivangjhalani.com)
 
 
 <p align="center"><b>And did I mention I love learning? Gonna reinvent the wheel!</b></p>
